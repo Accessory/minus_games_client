@@ -1,2 +1,2 @@
-# minus_games_client
-Minus Games Client Repo
+# Minus Games Client
+Seperate Repo for the Minus Games Client hosted at [https://github.com/Accessory/minus_games/](https://github.com/Accessory/minus_games/)
